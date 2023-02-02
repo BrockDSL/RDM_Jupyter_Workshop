@@ -13,9 +13,17 @@ Tuesday, February 28, 9:00 - 11:30 AM EST. [Details and sign-up]()
 
 ## Who
 
-**Tim Ribaric** is the Digital Scholarship Librarian at Brock University. He holds a Masters of Computer Science and is currently completing his PhD in Educational studies. He is a big fan of Github as a resource for researchers and uses Jupyter notebooks for almost all of his research, including his most recent Web Archives analysis platform called All Our Yesterdays. He is the instructor for the Library Juice Academy Python for Librarians course, which is of course all written in Jupyter Notebooks.
+Workshop will be co-lead by:
 
-**Cal Murgu**
+**Tim Ribaric** 
+
+[Tim](https://twitter.com/elbitronic) is the Digital Scholarship Librarian at Brock University. He holds a Masters of Computer Science and is currently completing his PhD in Educational studies. He is a big fan of Github as a resource for researchers and uses Jupyter notebooks for almost all of his research, including his most recent Web Archives analysis platform called [All Our Yesterdays](https://brockdsl.github.io/AOYTK/). He is the instructor for the [ibrary Juice Academy [Python for Librarians](https://libraryjuiceacademy.com/shop/course/270-python-for-librarians/) course, which is of course all written in Jupyter Notebooks.
+
+**Cal Murgu** 
+
+Cal is the Instructional Design Librarian at Brock. Prior to Brock, he was the Digital Humanities Librarian at the New College of Florida (Florida’s Honour College). He also teaches Digital Humanities and LIS at Western University in the Fall semesters. His current research project investigates how interactive digital notebooks can be used to help non-programmers learn to use and manipulate web archives. Cal is something of a jack-of-all-trades technologist who works with the Brock Digital Scholarship Lab whenever possible.
+
+
 
 
 # Notebooks
