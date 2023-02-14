@@ -28,7 +28,7 @@ Cal is the Instructional Design Librarian at Brock. Prior to Brock, he was the D
 
 |   |   |
 |---|---|
-|Full slides| [PDF](https://github.com/BrockDSL/RDM_Jupyter_Workshop/raw/main/Token_instructions.pdf) |
+|Full slides| [PDF](https://github.com/BrockDSL/RDM_Jupyter_Workshop/raw/main/Motivations_and_RDM.pdf) |
 |Token Generation Instructions| [PDF](https://github.com/BrockDSL/RDM_Jupyter_Workshop/raw/main/Token_instructions.pdf)
 
 
