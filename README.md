@@ -8,7 +8,7 @@ This session will take a deep dive into some research data management best pract
 
 ## When 
 
-Tuesday, February 28, 9:00 - 11:30 AM EST. [Details and sign-up]()
+Tuesday, February 28, 9:00 - 11:30 AM EST. [Details and sign-up](https://leddy.uwindsor.ca/training-events/rdm-tdm-jupyterhub-newspapers)
 
 
 ## Who
