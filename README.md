@@ -30,6 +30,6 @@ Cal is the Instructional Design Librarian at Brock. Prior to Brock, he was the D
 
 |   |   |
 |---|---|
-|Introduction | [Launch in myBinder](intro.ipynb)|
-|Part 1| [Launch in myBinder](part_1.ipynb)|
-|Part 2| [Launch in myBinder](part_2.ipynb)|
+|Introduction |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/RDM_Jupyter_Workshop/blob/main/intro.ipynb)|
+|Part 1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/RDM_Jupyter_Workshop/blob/main/part_1.ipynb) |
+|Part 2|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/RDM_Jupyter_Workshop/blob/main/part_2.ipynb)|
