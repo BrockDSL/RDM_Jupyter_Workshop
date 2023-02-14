@@ -24,6 +24,13 @@ Workshop will be co-lead by:
 Cal is the Instructional Design Librarian at Brock. Prior to Brock, he was the Digital Humanities Librarian at the New College of Florida (Florida’s Honour College). He also teaches Digital Humanities and LIS at Western University in the Fall semesters. His current research project investigates how interactive digital notebooks can be used to help non-programmers learn to use and manipulate web archives. Cal is something of a jack-of-all-trades technologist who works with the Brock Digital Scholarship Lab whenever possible.
 
 
+# Slides
+
+|   |   |
+|---|---|
+|Full slides| [PDF](https://github.com/BrockDSL/RDM_Jupyter_Workshop/raw/main/Token_instructions.pdf) |
+|Token Generation Instructions| [PDF](https://github.com/BrockDSL/RDM_Jupyter_Workshop/raw/main/Token_instructions.pdf)
+
 
 
 # Notebooks
